@@ -1,5 +1,5 @@
 # NeuralAI Landing Page
-
+bablu kumar
 Modern, animated landing page for an AI infrastructure startup. Built with React + Vite, Tailwind CSS v4, custom glassmorphism utilities, Framer Motion animations, and Lucide icons.
 
 https://github.com/bablu456/ai-landing-neuralai
